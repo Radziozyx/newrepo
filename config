@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[gui]
+	wmstate = zoomed
+	geometry = 893x435+208+208 175 196
+[remote "origin"]
+	url = https://github.com/Radziozyx/newrepo
+	fetch = +refs/heads/*:refs/remotes/origin/*
